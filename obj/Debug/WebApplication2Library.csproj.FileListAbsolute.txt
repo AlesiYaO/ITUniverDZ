@@ -1,0 +1,6 @@
+C:\Users\flamy\source\repos\WebApplication2Library\WebApplication2Library\bin\Debug\WebApplication2Library.dll
+C:\Users\flamy\source\repos\WebApplication2Library\WebApplication2Library\bin\Debug\WebApplication2Library.pdb
+C:\Users\flamy\source\repos\WebApplication2Library\WebApplication2Library\obj\Debug\WebApplication2Library.csprojAssemblyReference.cache
+C:\Users\flamy\source\repos\WebApplication2Library\WebApplication2Library\obj\Debug\WebApplication2Library.csproj.CoreCompileInputs.cache
+C:\Users\flamy\source\repos\WebApplication2Library\WebApplication2Library\obj\Debug\WebApplication2Library.dll
+C:\Users\flamy\source\repos\WebApplication2Library\WebApplication2Library\obj\Debug\WebApplication2Library.pdb
